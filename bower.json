@@ -1,0 +1,17 @@
+{
+  "name": "jquery numeric",
+  "version": "0.1.4",
+  "authors": [
+    "Greg Larrenaga <greg.larrenaga@thinksolid.com>"
+  ],
+  "description": "Allows only valid characters to be entered into input boxes.",
+  "main": "jquery.numeric.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
